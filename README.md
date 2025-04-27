@@ -1,4 +1,4 @@
-# MCP Demo Project
+# MCP Service Integrator
 
 This project demonstrates the use of multiple MCP (Multi-Channel Protocol) servers, including Playwright, Airbnb, and DuckDuckGo search integrations.
 
@@ -11,8 +11,8 @@ This project demonstrates the use of multiple MCP (Multi-Channel Protocol) serve
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+https://github.com/Jai-Keshav-Sharma/MCP-Orchestrator.git
+cd MCP-Orchestrator
 ```
 
 ### 2. Install dependencies
