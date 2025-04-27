@@ -1,6 +1,6 @@
 # MCP Service Integrator
 
-This project demonstrates the use of multiple MCP (Multi-Channel Protocol) servers, including Playwright, Airbnb, and DuckDuckGo search integrations.
+This project demonstrates the use of multiple MCP servers, including Playwright, Airbnb, and DuckDuckGo search integrations.
 
 ## Features
 - Automated browser control with Playwright
